@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="message_traits" fetch="git://github.com/stefanofiorentino/message_traits" review="" />
+  <project path="message_traits" name="message_traits" remote="message_traits" revision="master" />
+</manifest>
+
